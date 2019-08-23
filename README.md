@@ -1,6 +1,6 @@
 # PTSensor-I2CToUSB-PyQt5
 
-温度压力传感器测试程序，通过 I2CToUSB 转串口模块，调用相关驱动配套的 dll 读取数据，使用 PyQt5 写的工具将数据转换出来可视化显示。
+温度压力传感器测试程序，通过 341 芯片做得 I2C 转 USB 模块连接 PC（windows 7），调用相关驱动配套的 dll 读取数据，再使用 PyQt5 写的工具将数据存储转换出来生成突变显示测量。
 
 ## 文件说明
 - *.ui 为界面文件  
@@ -21,8 +21,8 @@
 - pywin32-ctypes
 
 ## GUI 展示
-![](https://github.com/noparkinghere/T_P_Sensor/tree/dev/pic/1.png)  
-![](https://github.com/noparkinghere/T_P_Sensor/tree/dev/pic/2.png)  
-![](https://github.com/noparkinghere/T_P_Sensor/tree/dev/pic/3.png)  
+![](https://github.com/noparkinghere/T_P_Sensor/tree/dev/pic/1.png?raw=true)  
+![](https://github.com/noparkinghere/T_P_Sensor/tree/dev/pic/2.png?raw=true)  
+![](https://github.com/noparkinghere/T_P_Sensor/tree/dev/pic/3.png?raw=true)  
 
 > 关于 PyQt5 可参考 [《PyQt5快速开发与实战》](https://github.com/cxinping/PyQt5)  
