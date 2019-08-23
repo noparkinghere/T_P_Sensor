@@ -21,8 +21,8 @@
 - pywin32-ctypes
 
 ## GUI 展示
-![](https://github.com/noparkinghere/T_P_Sensor/raw/tree/dev/pic/1.png)  
-![](https://github.com/noparkinghere/T_P_Sensor/raw/tree/dev/pic/2.png)  
-![](https://github.com/noparkinghere/T_P_Sensor/raw/tree/dev/pic/3.png)  
+![](https://github.com/noparkinghere/T_P_Sensor/raw/dev/pic/1.png)  
+![](https://github.com/noparkinghere/T_P_Sensor/raw/dev/pic/2.png)  
+![](https://github.com/noparkinghere/T_P_Sensor/raw/dev/pic/3.png)  
 
 > 关于 PyQt5 可参考 [《PyQt5快速开发与实战》](https://github.com/cxinping/PyQt5)  
