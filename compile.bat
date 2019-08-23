@@ -1,0 +1,1 @@
+C:\Users\Damon\AppData\Local\Programs\Python\Python35-32\Scripts\pyinstaller.exe -F -w -i pywin\icon.ico pywin\I2C_Sensor_Read.py
